@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM fact_risk_assessment;
